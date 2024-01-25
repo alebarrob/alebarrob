@@ -12,7 +12,6 @@
 [![Fragments](https://img.shields.io/badge/Fragments-EA4335?style=for-the-badge&labelColor=4285F4)]()
 [![Hilt](https://img.shields.io/badge/Hilt-4479A1?style=for-the-badge&labelColor=4285F4)]()
 [![Koin](https://img.shields.io/badge/Koin-FF6600?style=for-the-badge&labelColor=4285F4)]()
-</br>
 [![Room](https://img.shields.io/badge/Room-FF6600?style=for-the-badge&labelColor=4285F4)]()
 [![Picasso](https://img.shields.io/badge/Picasso-4479A1?style=for-the-badge&labelColor=4285F4)]()
 [![Coil](https://img.shields.io/badge/Coil-EA4335?style=for-the-badge&labelColor=4285F4)]()
@@ -24,7 +23,6 @@
 [![Coroutines](https://img.shields.io/badge/Coroutines-007396?style=for-the-badge&labelColor=007396)]()
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-02303A.svg?style=for-the-badge)
-</br>
 ![MockWebServer](https://img.shields.io/badge/MockWebServer-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Compose_Multiplatform](https://img.shields.io/badge/compose_multiplatform-%230047B3.svg?style=for-the-badge)
 [![Kotlin_Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-4285F4?style=for-the-badge&labelColor=4285F4)]()
@@ -32,7 +30,6 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-</br>
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
