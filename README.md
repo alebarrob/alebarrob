@@ -2,7 +2,7 @@
 - 👋 Hello, my name is Alejandro and I love technology and mobile applications development. I'm specialized in Android apps development with Kotlin, but I'm always learning new technologies and frameworks to improve as a professional and also because I really enjoy learning and acquiring new skills!
 - 💼 I'm currently working at Optiva Media (EPAM) as an Android developer.
 
-## Tecnologies:
+## Technologies:
 [![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=34A853)]()
 </br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-386641?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=386641)]()
