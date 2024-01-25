@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile!
-- 👋 Hello, my name is Alejandro and I love technology and mobile application development. I'm specialized in Android apps development with Kotlin, but I'm always learning new technologies and frameworks to improve as a developer and also because I really enjoy learning and acquiring new skills!
+- 👋 Hello, my name is Alejandro and I love technology and mobile applications development. I'm specialized in Android apps development with Kotlin, but I'm always learning new technologies and frameworks to improve as a developer and also because I really enjoy learning and acquiring new skills!
 - 💼 I'm currently working at Optiva Media (EPAM) as an Android developer.
 
 ## Tecnologies:
