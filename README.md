@@ -13,14 +13,13 @@
 </br>
 [![Jetpack_Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=4285F4)]()
 [![Fragments](https://img.shields.io/badge/Fragments-EA4335?style=for-the-badge&labelColor=4285F4)]()
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 [![Hilt](https://img.shields.io/badge/Hilt-4479A1?style=for-the-badge&labelColor=4285F4)]()
 [![Koin](https://img.shields.io/badge/Koin-FF6600?style=for-the-badge&labelColor=4285F4)]()
 [![Room](https://img.shields.io/badge/Room-FF6600?style=for-the-badge&labelColor=4285F4)]()
 [![Picasso](https://img.shields.io/badge/Picasso-4479A1?style=for-the-badge&labelColor=4285F4)]()
 [![Coil](https://img.shields.io/badge/Coil-EA4335?style=for-the-badge&labelColor=4285F4)]()
 [![Glide](https://img.shields.io/badge/Glide-4285F4?style=for-the-badge&labelColor=4285F4)]()
-[![Paging](https://img.shields.io/badge/Paging-007396?style=for-the-badge&labelColor=007396)]()
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 </br>
 [![Live_Data](https://img.shields.io/badge/Live_Data-0095D5?style=for-the-badge&labelColor=0095D5)]()
 ![RxJava](https://img.shields.io/badge/RxJava-007ACC?style=for-the-badge)
