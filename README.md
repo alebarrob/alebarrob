@@ -3,7 +3,7 @@
 - 💼 I'm currently working at Optiva Media (EPAM) as an Android developer.
 - 📬 You can contact me at:
 
-  [![Linkedin Badge](https://img.shields.io/badge/-alebarrob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-barrera-robles-7220a9181/)](https://www.linkedin.com/in/xavier-jiménez-mulet-7220a9181/)
+  [![Linkedin Badge](https://img.shields.io/badge/-alebarrob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-barrera-robles-7220a9181/)](https://www.linkedin.com/in/alejandro-barrera-robles-7220a9181/)
 
 ## Technologies:
 [![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=34A853)]()
