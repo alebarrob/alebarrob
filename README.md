@@ -29,7 +29,7 @@
 [![Flows](https://img.shields.io/badge/Flows-386641?style=for-the-badge&labelColor=386641)]()
 [![Coroutines](https://img.shields.io/badge/Coroutines-007396?style=for-the-badge&labelColor=007396)]()
 </br>
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge)
 ![Mockito](https://img.shields.io/badge/Mockito-02303A.svg?style=for-the-badge)
 ![MockWebServer](https://img.shields.io/badge/MockWebServer-%230A0FFF.svg?style=for-the-badge)
 </br>
