@@ -32,6 +32,7 @@
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge)
 ![Mockito](https://img.shields.io/badge/Mockito-02303A.svg?style=for-the-badge)
 ![MockWebServer](https://img.shields.io/badge/MockWebServer-%230A0FFF.svg?style=for-the-badge)
+![Espresso](https://img.shields.io/badge/Espresso-02303A.svg?style=for-the-badge)
 </br>
 ![Compose_Multiplatform](https://img.shields.io/badge/compose_multiplatform-%230047B3.svg?style=for-the-badge)
 [![Kotlin_Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-4285F4?style=for-the-badge&labelColor=4285F4)]()
