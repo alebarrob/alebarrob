@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 - 👋 Hello, my name is Alejandro and I love technology and mobile applications development. I'm specialized in Android apps development with Kotlin, but I'm always learning new technologies and frameworks to improve as a professional and also because I really enjoy learning and acquiring new skills!
-- 💼 I'm currently working at EPAM as an Android developer.
+- 💼 I'm currently working at Olton Systems as an Android developer.
 - 📬 You can contact me at:
 
   [![Linkedin Badge](https://img.shields.io/badge/-alebarrob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-barrera-robles/)](https://www.linkedin.com/in/alejandro-barrera-robles/)
